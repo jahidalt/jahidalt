@@ -23,9 +23,8 @@ Skills:
 
 
 
-- 🔭 I’m currently working on Exact Coder 
+- 🔭 I’m currently working on Zealve
 - 🌱 I’m currently learning Python, JavaScript
-- 👯 I’m looking to collaborate on Exact Coder 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Exact Coder[link](https://exactcoder.com) 
 
