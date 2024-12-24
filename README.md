@@ -7,15 +7,15 @@ Hi There, I am a full-stack developer who is always passionate about making some
 
 Skills: 
 
+  ✅ PYTHON
+  
+  ✅ DJANGO
+  
   ✅ JAVASCRIPT 
 
   ✅ REACT JS 
 
-  ✅ PYTHON
-
   ✅ FASTAPI
-
-  ✅ DJANGO
 
   ✅ NODE JS 
 
